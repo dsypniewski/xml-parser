@@ -1,0 +1,17 @@
+{
+  "name": "mouuro/xml-parser",
+  "authors": [
+    {
+      "name": "Damian Sypniewski",
+      "email": "damian@sypniew.ski",
+      "homepage": "https://damian.sypniew.ski",
+      "role": "Developer"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Mouuro\\XmlParser\\": "src/"
+    }
+  }
+}
